@@ -1,0 +1,7 @@
+tracking filter=lfs diff=lfs merge=lfs -text
+.psd filter=lfs diff=lfs merge=lfs -text
+files filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+Example filter=lfs diff=lfs merge=lfs -text
+for filter=lfs diff=lfs merge=lfs -text

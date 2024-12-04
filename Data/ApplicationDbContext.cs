@@ -1,0 +1,16 @@
+﻿using Microsoft.EntityFrameworkCore;
+using MyVideostore.Models;
+
+namespace MyVideostore.Data
+{
+    public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : DbContext(options)
+    {
+        public required DbSet<Video> Video { get; set; }
+        public required DbSet<Genre> Genre { get; set;}
+
+        public required DbSet<Contact> Contacts { get; set; }
+
+        public required DbSet<UserAccounts> UserAccounts { get; set; }
+        
+    }
+}

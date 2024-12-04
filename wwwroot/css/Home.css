@@ -1,0 +1,56 @@
+﻿.header {
+    font-family: 'Arial Rounded MT', serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.form-container {
+    background-color: #f8f9fa; /* Light background for the box */
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 8px; /* Rounded corners */
+    border: 1px solid #ddd; /* Light border around the form */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    max-width: 600px; /* Limit the width of the form */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Form fields */
+.form-group {
+    margin-bottom: 15px;
+}
+
+/* Input fields */
+.form-control {
+    border-radius: 4px; /* Rounded input fields */
+    border: 1px solid #ccc;
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #007bff; /* Custom blue color */
+    border-color: #007bff;
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+    }
+
+/* Labels */
+label {
+    font-weight: bold;
+}
+
+/* File input field */
+input[type="file"] {
+    padding: 5px;
+}
+
+/* Center the form container */
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+

@@ -1,0 +1,56 @@
+﻿@model MyVideostore.Models.Video
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+@foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+{
+    <div class="alert alert-danger">@error.ErrorMessage</div>
+}
+
+<link rel="stylesheet" href="~/css/Home.css" asp-append-version="true" />
+
+<div class="header">
+    <h1 class="display-4">MyVideoStore Application</h1>
+</div>
+
+
+
+<div class="form-container">
+    <form asp-action="Index" method="post" enctype="multipart/form-data">
+
+        <div class="form-group">
+            <label asp-for="Title"></label>
+            <input asp-for="Title" class="form-control" />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Director"></label>
+            <input asp-for="Director" class="form-control" />
+            <span asp-validation-for="Director" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Poster"></label>
+            <input asp-for="Poster" class="form-control" type="file" />
+            <span asp-validation-for="Poster" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="GenreID"></label>
+            <select asp-for="GenreID" class="form-control" asp-items="@(new SelectList(ViewBag.Genres, "GenreID", "GenreName"))">
+                <option value="">Select Genre</option>
+            </select>
+            <span asp-validation-for="GenreID" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success mt-3">Submit</button>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

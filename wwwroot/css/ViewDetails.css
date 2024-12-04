@@ -1,0 +1,97 @@
+﻿/* Custom styles for the Video Details page */
+
+/* Form Layout */
+.search-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+    .search-form .form-control {
+        margin-bottom: 20px; /* Adds space between each form control */
+    }
+
+    /* Add space between form fields */
+    .search-form input,
+    .search-form select {
+        margin-bottom: 15px; /* Adds margin below each input and select */
+    }
+
+@media (min-width: 576px) {
+    .search-form {
+        flex-direction: row;
+        justify-content: center;
+    }
+
+        .search-form .form-control {
+            margin-right: 15px; /* Adds right margin between inputs */
+            margin-bottom: 0; /* Removes bottom margin on medium screens */
+        }
+
+        .search-form .col-sm-3 {
+            width: 20%; /* Makes inputs narrower on medium screens */
+        }
+
+        .search-form .col-md-2 {
+            width: 15%; /* Further reduces the width on larger screens */
+        }
+
+        /* Space between search input and button */
+        .search-form button {
+            margin-top: 15px; /* Adds space between the input and the search button */
+        }
+}
+
+.search-form select,
+.search-form input {
+    width: 100%; /* Ensure inputs fill available space on small screens */
+}
+
+/* Video Table Styles */
+.table-responsive {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+.table img {
+    width: 100px;
+    height: auto;
+}
+
+.table .btn-sm {
+    padding: 5px 10px;
+    font-size: 0.9rem;
+}
+
+/* Button styles */
+.btn-dark {
+    font-size: 0.9rem;
+    padding: 5px 15px;
+}
+
+@media (max-width: 768px) {
+    .table th, .table td {
+        font-size: 0.9rem; /* Smaller font size on smaller screens */
+    }
+}
+
+/* Adjust spacing for buttons */
+.table td .btn-primary {
+    margin-right: 10px; /* Adds space between the Edit button and Delete button */
+}
+
+.table td .btn-danger {
+    margin-left: 10px; /* Adds space between the Delete button and Edit button */
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    .table td .btn-primary, .table td .btn-danger {
+        margin-bottom: 5px; /* Adds vertical space between buttons on smaller screens */
+    }
+}
+
+

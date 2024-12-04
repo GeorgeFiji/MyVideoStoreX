@@ -1,0 +1,75 @@
+﻿/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background: #f3f4f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Login Form Container */
+.log-form {
+    background: #ffffff;
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 300px;
+}
+
+    .log-form h2 {
+        color: #333333;
+        margin-bottom: 20px;
+    }
+
+    /* Input Fields */
+    .log-form input[type="text"],
+    .log-form input[type="password"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #cccccc;
+        border-radius: 4px;
+        font-size: 16px;
+        box-sizing: border-box;
+    }
+
+        /* Input Field Focus */
+        .log-form input[type="text"]:focus,
+        .log-form input[type="password"]:focus {
+            border-color: #007bff;
+            outline: none;
+            box-shadow: 0 0 4px rgba(0, 123, 255, 0.5);
+        }
+
+    /* Button Styles */
+    .log-form .btn {
+        background: #007bff;
+        color: #ffffff;
+        border: none;
+        padding: 10px 15px;
+        border-radius: 4px;
+        font-size: 16px;
+        cursor: pointer;
+        width: 100%;
+        transition: background 0.3s ease;
+    }
+
+        .log-form .btn:hover {
+            background: #0056b3;
+        }
+
+    /* Forgot Link */
+    .log-form .forgot {
+        display: block;
+        margin-top: 10px;
+        font-size: 14px;
+        color: #007bff;
+        text-decoration: none;
+    }
+
+        .log-form .forgot:hover {
+            text-decoration: underline;
+        }
