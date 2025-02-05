@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VTjH0gfuXp0=",
+  "dgSpecHash": "qmACrv6/IAY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\MyVideostore.csproj",
+  "projectFilePath": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\MyVideostore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fongj\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\fongj\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

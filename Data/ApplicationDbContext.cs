@@ -10,7 +10,7 @@ namespace MyVideostore.Data
 
         public required DbSet<Contact> Contacts { get; set; }
 
-        public required DbSet<UserAccounts> UserAccounts { get; set; }
+       
         
     }
 }

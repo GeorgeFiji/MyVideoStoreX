@@ -1,74 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\",
+  "WorkspaceRootPath": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\views\\login\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\login\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\models\\useraccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:models\\useraccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\views\\home\\videodetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\home\\videodetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive\\sidehustlezz\\myvideostore\\wwwroot\\css\\viewdetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\wwwroot\\css\\viewdetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:wwwroot\\css\\viewdetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\views\\home\\videodetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\home\\videodetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,28 +66,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
               "Title": "ViewDetails.css",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\wwwroot\\css\\ViewDetails.css",
+              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\wwwroot\\css\\ViewDetails.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\ViewDetails.css",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\wwwroot\\css\\ViewDetails.css",
+              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\wwwroot\\css\\ViewDetails.css",
               "RelativeToolTip": "wwwroot\\css\\ViewDetails.css",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-29T02:39:29.762Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -108,11 +97,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAEQAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -120,116 +109,80 @@
               "IsPinned": true
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T12:54:41.023Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T00:44:44.38Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Controllers\\Login.cs",
-              "RelativeDocumentMoniker": "Controllers\\Login.cs",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Controllers\\Login.cs",
-              "RelativeToolTip": "Controllers\\Login.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T22:21:17.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "Controllers\\ContactController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAgwC4AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T00:30:39.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Views\\Login\\LoginPage.cshtml",
-              "RelativeDocumentMoniker": "Views\\Login\\LoginPage.cshtml",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Views\\Login\\LoginPage.cshtml",
-              "RelativeToolTip": "Views\\Login\\LoginPage.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T22:24:51.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.css",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\wwwroot\\css\\Login.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Login.css",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\wwwroot\\css\\Login.css",
-              "RelativeToolTip": "wwwroot\\css\\Login.css",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-02T23:03:09.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T00:44:44.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserAccounts.cs",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Models\\UserAccounts.cs",
-              "RelativeDocumentMoniker": "Models\\UserAccounts.cs",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Models\\UserAccounts.cs",
-              "RelativeToolTip": "Models\\UserAccounts.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T22:16:40.077Z",
-              "EditorCaption": ""
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T12:54:41.023Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwC4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:30:39.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\wwwroot\\css\\Login.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Login.css",
+              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\wwwroot\\css\\Login.css",
+              "RelativeToolTip": "wwwroot\\css\\Login.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-02T23:03:09.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T23:25:11.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T23:25:11.156Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Video.cs",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Models\\Video.cs",
+              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Models\\Video.cs",
               "RelativeDocumentMoniker": "Models\\Video.cs",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Models\\Video.cs",
+              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Models\\Video.cs",
               "RelativeToolTip": "Models\\Video.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -237,11 +190,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Home.css",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\wwwroot\\css\\Home.css",
+              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\wwwroot\\css\\Home.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\Home.css",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\wwwroot\\css\\Home.css",
+              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\wwwroot\\css\\Home.css",
               "RelativeToolTip": "wwwroot\\css\\Home.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -249,11 +202,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "VideoDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Views\\Home\\VideoDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Home\\VideoDetails.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\VideoDetails.cshtml",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Views\\Home\\VideoDetails.cshtml",
+              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Home\\VideoDetails.cshtml",
               "RelativeToolTip": "Views\\Home\\VideoDetails.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -263,9 +216,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Views\\Home\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Home\\Edit.cshtml",
               "RelativeToolTip": "Views\\Home\\Edit.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -275,9 +228,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAIIAAAAAAAAAAAAwwEAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -285,11 +238,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "project.nuget.cache",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\obj\\project.nuget.cache",
+              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\obj\\project.nuget.cache",
               "RelativeDocumentMoniker": "obj\\project.nuget.cache",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\obj\\project.nuget.cache",
+              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\obj\\project.nuget.cache",
               "RelativeToolTip": "obj\\project.nuget.cache",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",

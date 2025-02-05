@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\MyVideostore.csproj": {}
+    "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\MyVideostore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\MyVideostore.csproj": {
+    "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\MyVideostore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\MyVideostore.csproj",
+        "projectUniqueName": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\MyVideostore.csproj",
         "projectName": "MyVideostore",
-        "projectPath": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\MyVideostore.csproj",
+        "projectPath": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\MyVideostore.csproj",
         "packagesPath": "C:\\Users\\fongj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fongj\\OneDrive\\SideHustlezz\\MyVideostore\\obj\\",
+        "outputPath": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,7 +43,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
