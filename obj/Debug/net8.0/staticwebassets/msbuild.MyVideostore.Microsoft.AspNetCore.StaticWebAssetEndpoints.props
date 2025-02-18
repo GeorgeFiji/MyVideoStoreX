@@ -28,13 +28,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-J6hDs624YaxmHRiZ3glqzMGRx5yU6\u002BFUOUgfbUIy2R0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1762"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022J6hDs624YaxmHRiZ3glqzMGRx5yU6\u002BFUOUgfbUIy2R0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Feb 2025 03:27:37 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1762"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022J6hDs624YaxmHRiZ3glqzMGRx5yU6\u002BFUOUgfbUIy2R0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 17 Feb 2025 23:36:47 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MyVideostore/css/site.nsiobyg645.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nsiobyg645"},{"Name":"integrity","Value":"sha256-J6hDs624YaxmHRiZ3glqzMGRx5yU6\u002BFUOUgfbUIy2R0="},{"Name":"label","Value":"_content/MyVideostore/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1762"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022J6hDs624YaxmHRiZ3glqzMGRx5yU6\u002BFUOUgfbUIy2R0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Feb 2025 03:27:37 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1762"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022J6hDs624YaxmHRiZ3glqzMGRx5yU6\u002BFUOUgfbUIy2R0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 17 Feb 2025 23:36:47 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MyVideostore/css/ViewDetails.81ox7a1kw1.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\ViewDetails.css'))</AssetFile>

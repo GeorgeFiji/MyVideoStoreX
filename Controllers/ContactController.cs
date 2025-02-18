@@ -8,15 +8,9 @@ using System.Threading.Tasks;
 
 namespace MyVideostore.Controllers
 {
-    public class ContactController : Controller
+    public class ContactController(ApplicationDbContext context) : Controller
     {
-        private readonly ApplicationDbContext _context;
-
-        // Constructor to inject the database context
-        public ContactController(ApplicationDbContext context)
-        {
-            _context = context ?? throw new ArgumentNullException(nameof(context));
-        }
+        private readonly ApplicationDbContext _context = context ?? throw new ArgumentNullException(nameof(context));
 
         // GET: Contact/Index
         [HttpGet]
@@ -60,7 +54,7 @@ namespace MyVideostore.Controllers
             return View(contact);
         }
 
-        private async Task SendEmailAsync(Contact contact)
+        private static async Task SendEmailAsync(Contact contact)
         {
             try
             {
