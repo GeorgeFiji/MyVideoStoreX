@@ -23,6 +23,7 @@ namespace MyVideostore.Controllers
         // This action handles GET requests and shows the video submission form
         public async Task<IActionResult> Index()
         {
+           
             // Get the list of genres from the database
             ViewBag.Genres = await _context.Genre.ToListAsync();
             return View();
