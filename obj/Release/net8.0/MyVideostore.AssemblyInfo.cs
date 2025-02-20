@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyVideostore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d9ce40e63ea97fd76875a4365ff2e51d7a2bbca")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyVideostore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyVideostore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

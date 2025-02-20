@@ -7,12 +7,13 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/MyVideostore.styles.css" asp-append-version="true" />
-    <link rel="icon" href="~/images/favicon-96x96.png"/>
+    <link rel="icon" href="~/images/favicon-96x96.png" />
 </head>
 <body>
+    <div class="hamburger" onclick="toggleSidebar()">☰</div>
     <div class="sidebar">
         <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
-            <img src="~/images/MVStore.ico" alt="MyVideostore Logo" class="logo-img"/>
+            <img src="~/images/MVStore.ico" alt="MyVideostore Logo" class="logo-img" />
         </a>
         <ul class="navbar-nav flex-grow-1">
             <li class="nav-item">
@@ -31,7 +32,6 @@
                 <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Search">Search</a>
             </li>
             <partial name="_LoginPartial" />
-          
         </ul>
     </div>
     <div class="content">
@@ -47,6 +47,12 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        function toggleSidebar() {
+            document.querySelector('.sidebar').classList.toggle('active');
+            document.querySelector('.content').classList.toggle('active');
+        }
+    </script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

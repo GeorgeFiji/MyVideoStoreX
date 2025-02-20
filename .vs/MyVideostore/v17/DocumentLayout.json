@@ -1,66 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\",
+  "WorkspaceRootPath": "C:\\Users\\fongj\\source\\repos\\GeorgeFiji\\MyVideoStoreX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\views\\home\\videodetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\home\\videodetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\source\\repos\\georgefiji\\myvideostorex\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\source\\repos\\georgefiji\\myvideostorex\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\onedrive - the university of the south pacific\\new version video store\\areas\\identity\\data\\myvideostoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:areas\\identity\\data\\myvideostoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|c:\\users\\fongj\\source\\repos\\georgefiji\\myvideostorex\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D88F1B3-B242-4EB2-8E08-B294F22DB874}|MyVideostore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,187 +34,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Home.css",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\wwwroot\\css\\Home.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Home.css",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\wwwroot\\css\\Home.css",
-              "RelativeToolTip": "wwwroot\\css\\Home.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-19T02:35:56.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\fongj\\source\\repos\\GeorgeFiji\\MyVideoStoreX\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\fongj\\source\\repos\\GeorgeFiji\\MyVideoStoreX\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T02:34:46.214Z",
+              "WhenOpened": "2025-02-20T03:11:16.965Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T23:15:30.385Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAkwFgAAAARAAAAAAAAAA==",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\fongj\\source\\repos\\GeorgeFiji\\MyVideoStoreX\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\fongj\\source\\repos\\GeorgeFiji\\MyVideoStoreX\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T00:32:28.282Z",
+              "WhenOpened": "2025-02-20T03:11:10.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:34:32.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\fongj\\source\\repos\\GeorgeFiji\\MyVideoStoreX\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\fongj\\source\\repos\\GeorgeFiji\\MyVideoStoreX\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T23:21:25.653Z",
+              "WhenOpened": "2025-02-20T02:57:54.509Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VideoDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Home\\VideoDetails.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\VideoDetails.cshtml",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Home\\VideoDetails.cshtml",
-              "RelativeToolTip": "Views\\Home\\VideoDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T02:34:47.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Logout.cshtml",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T00:43:54.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T00:28:11.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T23:53:16.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T00:38:53.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:16:17.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-19T00:25:45.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Areas\\Identity\\Data\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Areas\\Identity\\Data\\ApplicationUser.cs",
-              "RelativeToolTip": "Areas\\Identity\\Data\\ApplicationUser.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:18:02.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MyVideostoreDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Areas\\Identity\\Data\\MyVideostoreDbContext.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\MyVideostoreDbContext.cs",
-              "ToolTip": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\Areas\\Identity\\Data\\MyVideostoreDbContext.cs",
-              "RelativeToolTip": "Areas\\Identity\\Data\\MyVideostoreDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T22:41:01.513Z"
             }
           ]
         }

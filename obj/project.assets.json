@@ -8335,11 +8335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\MyVideostore.csproj",
+      "projectUniqueName": "C:\\Users\\fongj\\source\\repos\\GeorgeFiji\\MyVideoStoreX\\MyVideostore.csproj",
       "projectName": "MyVideostore",
-      "projectPath": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\MyVideostore.csproj",
+      "projectPath": "C:\\Users\\fongj\\source\\repos\\GeorgeFiji\\MyVideoStoreX\\MyVideostore.csproj",
       "packagesPath": "C:\\Users\\fongj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fongj\\OneDrive - The University of the South Pacific\\New Version Video Store\\obj\\",
+      "outputPath": "C:\\Users\\fongj\\source\\repos\\GeorgeFiji\\MyVideoStoreX\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

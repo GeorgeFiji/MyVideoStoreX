@@ -31,6 +31,7 @@ body {
     border-right: 1px solid #dee2e6;
     padding: 20px;
     box-sizing: border-box;
+    transition: transform 0.3s ease;
 }
 
     .sidebar .navbar-brand {
@@ -66,6 +67,7 @@ body {
     background-color: #f8f9fa;
     min-height: 100vh;
     box-sizing: border-box;
+    transition: margin-left 0.3s ease;
 }
 
 footer {
@@ -84,4 +86,36 @@ footer {
     display: 50px;
 }
 
+.hamburger {
+    display: none;
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    z-index: 1000;
+    cursor: pointer;
+    font-size: 24px;
+    color: black;
+}
 
+@media (max-width: 767px) {
+    .sidebar {
+        transform: translateX(-100%);
+    }
+
+    .content {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .hamburger {
+        display: block;
+    }
+
+    .sidebar.active {
+        transform: translateX(0);
+    }
+
+    .content.active {
+        margin-left: 250px;
+    }
+}
