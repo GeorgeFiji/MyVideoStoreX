@@ -54,3 +54,28 @@ input[type="file"] {
     margin-bottom: 20px;
 }
 
+/* Responsive styles */
+@media (max-width: 600px) {
+    .form-container {
+        padding: 15px;
+        margin-top: 20px;
+        max-width: 100%;
+    }
+
+    .form-group {
+        margin-bottom: 10px;
+    }
+
+    .form-control {
+        font-size: 14px;
+    }
+
+    .btn-primary {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .header {
+        font-size: 18px;
+    }
+}

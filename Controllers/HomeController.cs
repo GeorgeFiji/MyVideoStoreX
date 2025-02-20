@@ -1,3 +1,5 @@
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MyVideostore.Data;
@@ -10,15 +12,12 @@ using System.Threading.Tasks;
 
 namespace MyVideostore.Controllers
 {
-    public class HomeController : Controller
+    [Authorize]
+    public class HomeController(ApplicationDbContext context) : Controller
     {
-        private readonly ApplicationDbContext _context;
-
-        // Inject the ApplicationDbContext into the controller through the constructor
-        public HomeController(ApplicationDbContext context)
-        {
-            _context = context;
-        }
+        private readonly ApplicationDbContext _context = context;
+        private readonly SignInManager<IdentityUser>? _signInManager;
+        private readonly UserManager<IdentityUser>? _userManager;
 
         // This action handles GET requests and shows the video submission form
         public async Task<IActionResult> Index()

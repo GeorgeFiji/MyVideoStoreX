@@ -38,14 +38,13 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthorization();
 
-// Map controller routes
 app.MapControllerRoute(
-   name: "areas",
-   pattern: "{area:exists}/{controller=Account}/{action=Login}/{id?}");
+    name: "areas",
+    pattern: "{area:exists}/{controller=Account}/{action=Index}/{id?}");
 
 app.MapControllerRoute(
-   name: "default",
-   pattern: "{controller=Home}/{action=Index}/{id?}");
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.MapRazorPages();
 
