@@ -20,6 +20,12 @@ namespace MyVideostore.Controllers
         private readonly UserManager<IdentityUser>? _userManager;
 
         // This action handles GET requests and shows the video submission form
+
+        //Dashboard Configuration
+        public IActionResult Dashboard()
+        {
+            return View();
+        }   
         public async Task<IActionResult> Index()
         {
            

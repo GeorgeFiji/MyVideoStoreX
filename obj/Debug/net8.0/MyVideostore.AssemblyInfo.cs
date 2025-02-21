@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyVideostore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d9ce40e63ea97fd76875a4365ff2e51d7a2bbca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15d449c7f9328602a38484ff1f6dcc64caa7f9cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyVideostore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyVideostore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
